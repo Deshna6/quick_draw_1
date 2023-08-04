@@ -1,0 +1,45 @@
+.body_background
+{
+background-color:chartreuse
+}
+
+#score
+{
+    font-size: 45px;
+    margin-left: 50px;
+}
+
+#timer
+{
+    font-size: 45px;
+    float: right;
+    margin-right: 50px;
+}
+
+#sketch_to_be_drawn
+{
+    color:crimson ;
+    font-weight: bold;
+}
+
+.title-bar
+{
+    font-weight: bold;
+    color:blue;
+    background-color: white;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+#your_sketch
+{
+    font-weight: bold;
+}
+
+#confidence
+{
+    font-weight: bold;
+}
